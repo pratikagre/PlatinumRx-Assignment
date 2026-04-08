@@ -15,6 +15,7 @@ Data_Analyst_Assignment/
 │
 ├── Spreadsheets/
 │   └── Spreadsheet_Solution.md      # Discussion and formulas for the spreadsheet task
+        Ticket_Analysis.xlsx
 │
 ├── Python/
 │   ├── 01_Time_Converter.py         # Script to convert minutes to hours and minutes
